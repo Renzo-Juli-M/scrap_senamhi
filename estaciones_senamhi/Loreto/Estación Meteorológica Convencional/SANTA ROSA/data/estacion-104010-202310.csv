@@ -1,9 +1,0 @@
-
-
-,Estación : SANTA ROSA
-,Departamento :,LORETO,Provincia :,MARISCAL RAMON CASTILLA,Distrito :,YAVARI
-,Latitud :,4°13'34.88'',Longitud :,69°57'22.63'',Altitud :,62 msnm.
-,Tipo :,PLU - Meteorológica,Código :,104010
-AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
-MAX,MIN,TOTAL
-2023-10-01,,,,Fatal error: Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php:2701 Stack trace: #0 /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php(2701): number_format() #1 {main} thrown in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php on line 2701
