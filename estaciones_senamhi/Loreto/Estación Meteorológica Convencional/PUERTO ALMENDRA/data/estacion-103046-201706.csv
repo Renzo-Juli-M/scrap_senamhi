@@ -1,0 +1,22 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : PUERTO ALMENDRA
+,Departamento :,LORETO,Provincia :,MAYNAS,Distrito :,SAN JUAN BAUTISTA
+,Latitud :,3°49'42.98'',Longitud :,73°22'37.36'',Altitud :,96 msnm.
+,Tipo :,CO - Meteorológica,Código :,103046
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2017-06-01,31.2,23.2,95.0,0.0
+2017-06-02,31.6,23.2,94.0,4.2
+2017-06-03,29.6,22.8,91.0,0.0
+2017-06-04,31.2,22.6,91.6,0.0
+2017-06-05,33,23,96.6,0.0
+2017-06-06,S/D,23.2,S/D,S/D
+2017-06-07,35,23.4,93.5,0.0
+2017-07-01,33,22.6,81.8,20.2

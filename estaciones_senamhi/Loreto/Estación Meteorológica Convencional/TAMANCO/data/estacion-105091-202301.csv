@@ -1,0 +1,9 @@
+
+
+,Estación : TAMANCO
+,Departamento :,LORETO,Provincia :,REQUENA,Distrito :,EMILIO SAN MARTIN
+,Latitud :,5°47'31.45'',Longitud :,74°17'20.55'',Altitud :,104 msnm.
+,Tipo :,PLU - Meteorológica,Código :,105091
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2023-01-01,,,,Fatal error: Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php:2701 Stack trace: #0 /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php(2701): number_format() #1 {main} thrown in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php on line 2701

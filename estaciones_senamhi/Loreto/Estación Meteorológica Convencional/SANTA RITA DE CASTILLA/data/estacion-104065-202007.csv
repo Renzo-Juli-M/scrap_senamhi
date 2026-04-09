@@ -1,0 +1,45 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : SANTA RITA DE CASTILLA
+,Departamento :,LORETO,Provincia :,LORETO,Distrito :,PARINARI
+,Latitud :,4°35'31.77'',Longitud :,74°22'50.14'',Altitud :,104 msnm.
+,Tipo :,PE - Meteorológica,Código :,104065
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2020-07-01,S/D,S/D,80.6,0.0
+2020-07-02,S/D,S/D,83.2,15.2
+2020-07-03,S/D,S/D,92.9,20.4
+2020-07-04,S/D,S/D,84.3,0.0
+2020-07-05,S/D,S/D,77.7,0.0
+2020-07-06,S/D,S/D,77.4,0.0
+2020-07-07,S/D,S/D,85.4,0.0
+2020-07-08,S/D,S/D,76.0,0.0
+2020-07-09,S/D,S/D,84.8,20.2
+2020-07-10,S/D,S/D,87.0,10.6
+2020-07-11,S/D,S/D,86.0,0.0
+2020-07-12,S/D,S/D,70.4,0.0
+2020-07-13,S/D,S/D,89.2,25.4
+2020-07-14,S/D,S/D,89.4,32.4
+2020-07-15,S/D,S/D,87.2,0.0
+2020-07-16,S/D,S/D,82.9,0.0
+2020-07-17,S/D,S/D,69.5,0.0
+2020-07-18,S/D,S/D,77.9,0.0
+2020-07-19,S/D,S/D,82.2,0.0
+2020-07-20,S/D,S/D,74.0,0.0
+2020-07-21,S/D,S/D,86.8,0.0
+2020-07-22,S/D,S/D,87.9,28.4
+2020-07-23,S/D,S/D,93.8,0.0
+2020-07-24,S/D,S/D,76.7,0.0
+2020-07-25,S/D,S/D,72.9,0.0
+2020-07-26,S/D,S/D,87.9,0.0
+2020-07-27,S/D,S/D,80.8,0.0
+2020-07-28,S/D,S/D,72.8,0.0
+2020-07-29,S/D,S/D,76.8,0.0
+2020-07-30,S/D,S/D,86.6,0.0
+2020-07-31,S/D,S/D,87.8,0.0

@@ -1,0 +1,45 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : CHIRIACO
+,Departamento :,AMAZONAS,Provincia :,BAGUA,Distrito :,IMAZA
+,Latitud :,5°9'41.2'',Longitud :,78°17'17'',Altitud :,323 msnm.
+,Tipo :,CO - Meteorológica,Código :,105104
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2022-12-01,35.5,S/D,77.1,0.0
+2022-12-02,34.7,S/D,75.9,0.0
+2022-12-03,31.5,S/D,79.0,0.0
+2022-12-04,33.7,S/D,80.2,0.0
+2022-12-05,34.7,S/D,75.0,0.0
+2022-12-06,32.5,S/D,89.7,14.2
+2022-12-07,32.5,S/D,80.8,0.0
+2022-12-08,32,S/D,84.2,37.5
+2022-12-09,28.8,S/D,91.8,11.9
+2022-12-10,30,S/D,89.8,41.7
+2022-12-11,33.4,S/D,83.4,0.0
+2022-12-12,33.6,S/D,79.7,0.0
+2022-12-13,30.2,S/D,86.1,11.2
+2022-12-14,31,S/D,87.4,6.8
+2022-12-15,31.2,S/D,85.7,6.4
+2022-12-16,29.7,S/D,87.5,4.4
+2022-12-17,27.5,S/D,90.3,5.4
+2022-12-18,34.2,S/D,78.2,0.0
+2022-12-19,35,S/D,77.4,S/D
+2022-12-20,S/D,S/D,S/D,S/D
+2022-12-21,S/D,S/D,S/D,S/D
+2022-12-22,S/D,S/D,S/D,S/D
+2022-12-23,S/D,S/D,S/D,S/D
+2022-12-24,S/D,S/D,S/D,S/D
+2022-12-25,S/D,S/D,S/D,S/D
+2022-12-26,S/D,S/D,S/D,S/D
+2022-12-27,S/D,S/D,S/D,S/D
+2022-12-28,S/D,S/D,S/D,S/D
+2022-12-29,S/D,S/D,S/D,S/D
+2022-12-30,S/D,S/D,S/D,S/D
+2022-12-31,S/D,S/D,S/D,S/D

@@ -1,0 +1,14 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+
+,Estación : PUERTO ESPERANZA
+,Departamento :,UCAYALI,Provincia :,PURUS,Distrito :,PURUS
+,Latitud :,9°46'14.98'',Longitud :,70°42'23.97'',Altitud :,237 msnm.
+,Tipo :,EMA - Meteorológica,Código :,47E87066
+AÑO / MES / DÍA,HORA,TEMPERATURA (°C),PRECIPITACIÓN (mm/hora),HUMEDAD (%),DIRECCION DEL VIENTO (°),VELOCIDAD DEL VIENTO (m/s)
+2019/11/05,23:00,S/D,S/D,S/D,S/D,S/D
+2019/11/06,16:00,S/D,S/D,S/D,S/D,S/D

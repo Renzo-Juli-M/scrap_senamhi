@@ -1,0 +1,25 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : GENARO HERRERA
+,Departamento :,LORETO,Provincia :,REQUENA,Distrito :,JENARO HERRERA
+,Latitud :,4°54'36.1'',Longitud :,73°40'10'',Altitud :,103 msnm.
+,Tipo :,CP - Meteorológica,Código :,104071
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2021-11-01,32,S/D,88.5,0.0
+2021-11-02,30,S/D,84.1,6.2
+2021-11-03,31.8,S/D,84.6,2.4
+2021-11-04,29.4,S/D,81.2,6.8
+2021-11-05,32,S/D,87.2,0.0
+2021-11-06,S/D,S/D,S/D,S/D
+2021-11-07,S/D,S/D,S/D,S/D
+2021-11-08,S/D,S/D,S/D,S/D
+2021-11-09,S/D,S/D,S/D,S/D
+2021-11-10,S/D,S/D,S/D,S/D
+2021-11-11,S/D,S/D,S/D,S/D

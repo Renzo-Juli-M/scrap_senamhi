@@ -1,0 +1,45 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : SANTA ROSA
+,Departamento :,LORETO,Provincia :,MARISCAL RAMON CASTILLA,Distrito :,YAVARI
+,Latitud :,4°13'34.88'',Longitud :,69°57'22.63'',Altitud :,62 msnm.
+,Tipo :,PLU - Meteorológica,Código :,104010
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2025-03-01,,,,0.0
+2025-03-02,,,,19.0
+2025-03-03,,,,2.0
+2025-03-04,,,,30.4
+2025-03-05,,,,3.1
+2025-03-06,,,,1.0
+2025-03-07,,,,0.0
+2025-03-08,,,,0.0
+2025-03-09,,,,0.0
+2025-03-10,,,,0.0
+2025-03-11,,,,0.0
+2025-03-12,,,,8.0
+2025-03-13,,,,1.0
+2025-03-14,,,,31.0
+2025-03-15,,,,52.1
+2025-03-16,,,,0.1
+2025-03-17,,,,0.4
+2025-03-18,,,,95.3
+2025-03-19,,,,0.0
+2025-03-20,,,,4.0
+2025-03-21,,,,25.0
+2025-03-22,,,,0.0
+2025-03-23,,,,5.0
+2025-03-24,,,,4.1
+2025-03-25,,,,3.0
+2025-03-26,,,,76.3
+2025-03-27,,,,0.0
+2025-03-28,,,,8.1
+2025-03-29,,,,31.1
+2025-03-30,,,,49.4
+2025-03-31,,,,0.0

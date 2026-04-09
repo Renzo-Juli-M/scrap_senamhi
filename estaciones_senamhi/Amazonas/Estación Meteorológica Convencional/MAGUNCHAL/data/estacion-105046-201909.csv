@@ -1,0 +1,44 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : MAGUNCHAL
+,Departamento :,AMAZONAS,Provincia :,UTCUBAMBA,Distrito :,JAMALCA
+,Latitud :,5°53'25.36'',Longitud :,78°11'20.83'',Altitud :,632 msnm.
+,Tipo :,PLU - Meteorológica,Código :,105046
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2019-09-01,,,,0.0
+2019-09-02,,,,0.0
+2019-09-03,,,,0.0
+2019-09-04,,,,4.7
+2019-09-05,,,,0.0
+2019-09-06,,,,1.0
+2019-09-07,,,,1.8
+2019-09-08,,,,0.0
+2019-09-09,,,,0.0
+2019-09-10,,,,0.0
+2019-09-11,,,,0.0
+2019-09-12,,,,3.0
+2019-09-13,,,,0.0
+2019-09-14,,,,0.0
+2019-09-15,,,,0.0
+2019-09-16,,,,2.5
+2019-09-17,,,,0.0
+2019-09-18,,,,0.0
+2019-09-19,,,,0.0
+2019-09-20,,,,0.0
+2019-09-21,,,,0.0
+2019-09-22,,,,0.0
+2019-09-23,,,,0.0
+2019-09-24,,,,1.2
+2019-09-25,,,,0.0
+2019-09-26,,,,0.0
+2019-09-27,,,,7.9
+2019-09-28,,,,0.6
+2019-09-29,,,,9.9
+2019-09-30,,,,0.0

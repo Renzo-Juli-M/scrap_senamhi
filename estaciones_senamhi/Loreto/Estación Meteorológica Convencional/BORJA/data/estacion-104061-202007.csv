@@ -1,0 +1,45 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : BORJA
+,Departamento :,LORETO,Provincia :,DATEM DEL MARAÑON,Distrito :,MANSERICHE
+,Latitud :,4°28'10.48'',Longitud :,77°32'53.75'',Altitud :,164 msnm.
+,Tipo :,PLU - Meteorológica,Código :,104061
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2020-07-01,,,,6.7
+2020-07-02,,,,0.0
+2020-07-03,,,,0.0
+2020-07-04,,,,0.0
+2020-07-05,,,,4.9
+2020-07-06,,,,10.9
+2020-07-07,,,,2.1
+2020-07-08,,,,0.0
+2020-07-09,,,,9.7
+2020-07-10,,,,0.6
+2020-07-11,,,,0.0
+2020-07-12,,,,1.5
+2020-07-13,,,,7.7
+2020-07-14,,,,18.4
+2020-07-15,,,,19.3
+2020-07-16,,,,0.0
+2020-07-17,,,,0.0
+2020-07-18,,,,0.0
+2020-07-19,,,,0.0
+2020-07-20,,,,0.0
+2020-07-21,,,,0.0
+2020-07-22,,,,0.0
+2020-07-23,,,,0.0
+2020-07-24,,,,14.5
+2020-07-25,,,,20.5
+2020-07-26,,,,6.6
+2020-07-27,,,,0.0
+2020-07-28,,,,5.1
+2020-07-29,,,,7.1
+2020-07-30,,,,28.1
+2020-07-31,,,,3.8

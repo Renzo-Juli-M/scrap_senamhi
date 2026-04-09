@@ -1,0 +1,45 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : SANTA CLOTILDE
+,Departamento :,LORETO,Provincia :,MAYNAS,Distrito :,NAPO
+,Latitud :,2°29'15.3'',Longitud :,73°40'45.1'',Altitud :,118 msnm.
+,Tipo :,CO - Meteorológica,Código :,102009
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2020-07-01,32,S/D,93.2,2.0
+2020-07-02,32.2,S/D,90.4,25.4
+2020-07-03,31,S/D,93.5,4.4
+2020-07-04,31.2,S/D,94.0,0.0
+2020-07-05,30,S/D,S/D,0.0
+2020-07-06,32.2,S/D,90.3,79.0
+2020-07-07,32.2,S/D,94.5,3.4
+2020-07-08,31.2,S/D,S/D,3.6
+2020-07-09,33.2,S/D,92.1,4.8
+2020-07-10,27,S/D,96.7,36.2
+2020-07-11,32,S/D,91.2,0.0
+2020-07-12,31.2,S/D,92.1,0.0
+2020-07-13,32.2,S/D,91.9,0.0
+2020-07-14,30,S/D,93.8,15.4
+2020-07-15,31,S/D,92.3,2.5
+2020-07-16,33.2,S/D,90.5,0.0
+2020-07-17,34.2,S/D,88.4,0.0
+2020-07-18,32,S/D,92.3,6.9
+2020-07-19,31.2,S/D,95.3,8.9
+2020-07-20,31,S/D,93.9,0.5
+2020-07-21,32.2,S/D,87.7,0.0
+2020-07-22,33.2,S/D,S/D,0.0
+2020-07-23,S/D,S/D,S/D,44.7
+2020-07-24,30.2,S/D,S/D,0.0
+2020-07-25,27,S/D,S/D,23.3
+2020-07-26,30.2,S/D,S/D,1.2
+2020-07-27,31.2,S/D,S/D,0.0
+2020-07-28,32,S/D,S/D,0.0
+2020-07-29,33.2,S/D,S/D,0.0
+2020-07-30,32.2,S/D,S/D,0.0
+2020-07-31,29,S/D,S/D,1.0

@@ -1,0 +1,44 @@
+Fuente: SENAMHI / DRD
+* Datos sin control de calidad.
+* El uso de estos datos será de entera responsabilidad del usuario.
+
+Leyenda:
+* S/D = Sin Datos.
+* T = Trazas (Precipitación < 0.1 mm/día).
+
+,Estación : MORALILLO
+,Departamento :,LORETO,Provincia :,MAYNAS,Distrito :,SAN JUAN BAUTISTA
+,Latitud :,3°53'58.8'',Longitud :,73°20'18'',Altitud :,106 msnm.
+,Tipo :,CP - Meteorológica,Código :,103023
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2020-11-01,S/D,S/D,84.2,0.0
+2020-11-02,S/D,S/D,80.8,0.0
+2020-11-03,S/D,S/D,88.1,5.2
+2020-11-04,S/D,S/D,82.8,0.0
+2020-11-05,S/D,S/D,84.9,10.3
+2020-11-06,S/D,S/D,90.2,20.7
+2020-11-07,S/D,S/D,85.4,0.0
+2020-11-08,S/D,S/D,89.6,8.2
+2020-11-09,S/D,S/D,85.1,41.3
+2020-11-10,S/D,S/D,89.6,9.3
+2020-11-11,S/D,S/D,84.8,0.0
+2020-11-12,S/D,S/D,89.6,6.2
+2020-11-13,S/D,S/D,87.8,0.0
+2020-11-14,S/D,S/D,76.1,0.0
+2020-11-15,S/D,S/D,80.4,31.3
+2020-11-16,S/D,S/D,89.6,0.0
+2020-11-17,S/D,S/D,84.4,0.0
+2020-11-18,S/D,S/D,82.4,10.6
+2020-11-19,S/D,S/D,84.9,9.4
+2020-11-20,S/D,S/D,S/D,29.0
+2020-11-21,S/D,S/D,S/D,0.0
+2020-11-22,S/D,S/D,S/D,20.7
+2020-11-23,S/D,S/D,81.3,30.5
+2020-11-24,S/D,S/D,84.9,0.0
+2020-11-25,S/D,S/D,84.5,0.0
+2020-11-26,S/D,S/D,84.9,6.2
+2020-11-27,S/D,S/D,90.5,10.8
+2020-11-28,S/D,S/D,S/D,15.7
+2020-11-29,S/D,S/D,87.9,20.7
+2020-11-30,S/D,S/D,89.6,0.0

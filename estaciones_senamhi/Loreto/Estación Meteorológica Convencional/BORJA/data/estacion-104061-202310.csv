@@ -1,0 +1,9 @@
+
+
+,Estación : BORJA
+,Departamento :,LORETO,Provincia :,DATEM DEL MARAÑON,Distrito :,MANSERICHE
+,Latitud :,4°28'10.48'',Longitud :,77°32'53.75'',Altitud :,164 msnm.
+,Tipo :,PLU - Meteorológica,Código :,104061
+AÑO / MES / DÍA,TEMPERATURA (°C),HUMEDAD RELATIVA (%),PRECIPITACIÓN (mm/día)
+MAX,MIN,TOTAL
+2023-10-01,,,,Fatal error: Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php:2701 Stack trace: #0 /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php(2701): number_format() #1 {main} thrown in /var/www/html/mapas/mapa-estaciones-2/_dt_est_tp_0s3n@mH1.php on line 2701
